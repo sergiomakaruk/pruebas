@@ -1,0 +1,24 @@
+* Hostname in DNS cache was stale, zapped
+*   Trying 200.16.89.82...
+* Connected to www.dghpsh.agcontrol.gob.ar (200.16.89.82) port 80 (#0)
+> GET /EDA/Tramites/CEDyT/GetOblea/MjcwOTQ4Nw== HTTP/1.1
+Host: www.dghpsh.agcontrol.gob.ar
+Accept: */*
+Cookie: __utma=187151037.1720457946.1521468213.1521468213.1521468213.1; __utmz=187151037.1521468213.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); ASP.NET_SessionId=3i3cwuwmui2m51us51hird1f; AUTH-EDA=2E818D31A7F1A3D5995FF682E64B56C0B1537F24C16329DFD137F7574C2585619C46C1B52B01A1FDCD4B7807543DE78B7F863F56C028B047ADBC12A9518952572F1830A2627131183A9CEA549ABB3BBBBCF2B249A5DA02EEAC2088D7584BBFDB90699617
+Content-Type: application/pdf
+Connection: Keep-Alive
+
+< HTTP/1.1 200 OK
+< Date: Fri, 06 Apr 2018 16:00:13 GMT
+< Server: Microsoft-IIS/8.5
+< Cache-Control: private
+< Content-Length: 49521
+< Content-Type: application/pdf
+< Content-Disposition: inline;filename=Certificado-CEDyT-2428403.pdf
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Via: 1.1 dghpsh.agcontrol.gov.ar
+< Keep-Alive: timeout=5, max=50
+< Connection: Keep-Alive
+< 
+* Connection #0 to host www.dghpsh.agcontrol.gob.ar left intact
